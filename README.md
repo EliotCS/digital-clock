@@ -46,4 +46,4 @@ I plan to keep building and recreating projects to sharpen my front-end developm
 
 ## Live Demo
 
-[View the Digital Clock App](https://eliotcs.github.io/Digital-Clock/)
+[View the Digital Clock App](https://eliotcs.github.io/digital-clock/)
